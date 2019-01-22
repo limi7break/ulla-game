@@ -1,0 +1,36 @@
+body {
+	background-color: #1a2028;
+}
+
+canvas {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h1 {
+	font-size: 50px;
+	font-family: Consolas;
+	color: white;
+	text-align: center;
+}
+
+p, a {
+	font-size: 20px;
+	font-family: Consolas;
+	color: white;
+	text-align: center;
+	display: block;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
